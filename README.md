@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fdepierre
-- 👀 I’m interested in product and climate change
+- 👀 I’m interested in product management and climate change
 - 🌱 I’m currently focusing on real deployment of application on K8s, TensorFlow and Grafana for smart dashboard
 - 💞️ I’m looking to collaborate on deployment, tools to make it realiable
 - 📫 How to reach me : find me on twitter @FranckDepierre or email franck.depierre@lookingforanswers.me 
