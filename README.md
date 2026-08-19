@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @fdepierre
-- 👀 I’m interested in product management and climate change
-- 🌱 I’m currently focusing on real deployment of application on K8s, TensorFlow and Grafana for smart dashboard
-- 💞️ I’m looking to collaborate on deployment, tools to make it realiable
-- 📫 How to reach me : find me on twitter @FranckDepierre or email franck.depierre@lookingforanswers.me 
-
-<!---
-fdepierre/fdepierre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in product management, climate change, and health & sport.
+- 🌱 I’m currently exploring real-world application deployment on agents, K8s, and LLM security.
+- 💞️ I’m building tools on GitHub to explain and summarize historical knowledge.
+- 📫 How to reach me:
+  - **Bluesky:** [@lookingforanswers.eu](https://bsky.app/profile/lookingforanswers.eu)
+  - **LinkedIn:** [franckdepierre](https://www.linkedin.com/in/franckdepierre/)
+  - **Email:** franck.depierre@lookingforanswers.eu
